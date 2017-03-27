@@ -3,8 +3,8 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
     <include layout="@layout/head" />
-    <com.zone.jiayingzi.Weidge.ProgressWebView
+    <com.zone.forgithubproject.weidge.ProgressWebView
         android:id="@+id/wv"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"></com.zone.jiayingzi.Weidge.ProgressWebView>
+        android:layout_height="match_parent"></com.zone.forgithubproject.weidge.ProgressWebView>
 </LinearLayout>
