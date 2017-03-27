@@ -1,0 +1,108 @@
+{
+    "android_gradle_plugin_version": "2.2.0",
+    "apk_path": "F:\\ForGitHubProject\\app\\build\\outputs\\apk\\app-debug.apk",
+    "auto_dependency": true,
+    "build_cache_dir": "F:\\ForGitHubProject\\app\\build\\freeline",
+    "build_directory": "F:\\ForGitHubProject\\app\\build",
+    "build_script": "gradlew.bat :app:assembleDebug",
+    "build_script_work_directory": "",
+    "build_tools_directory": "Z:\\SDK\\build-tools\\24.0.3",
+    "build_tools_version": "24.0.3",
+    "check_sources_md5": [
+        
+    ],
+    "compile_sdk_directory": "Z:\\SDK\\platforms\\android-24",
+    "compile_sdk_version": "android-24",
+    "databinding": [
+        
+    ],
+    "databinding_modules": [
+        
+    ],
+    "debug_package": "com.zone.forgithubproject",
+    "exclude_dep_res_paths": [
+        
+    ],
+    "extra_dep_res_paths": [
+        
+    ],
+    "freeline_cache_dir": "F:\\ForGitHubProject",
+    "freeline_gradle_plugin_version": "0.8.7",
+    "ignore_resource_ids": [
+        "avd_hide_password_1",
+        "avd_hide_password_2",
+        "avd_hide_password_3",
+        "avd_show_password_1",
+        "avd_show_password_2",
+        "avd_show_password_3"
+    ],
+    "java_home": "C:\\Program Files\\Java\\jdk1.8.0_51",
+    "launcher": "com.zone.forgithubproject.AdActivity",
+    "main_assets_directory": [
+        "F:\\ForGitHubProject\\app\\src\\debug\\assets",
+        "F:\\ForGitHubProject\\app\\src\\main\\assets"
+    ],
+    "main_jniLibs_directory": [
+        "F:\\ForGitHubProject\\app\\src\\debug\\jniLibs",
+        "F:\\ForGitHubProject\\app\\src\\main\\jniLibs"
+    ],
+    "main_jni_directory": [
+        "F:\\ForGitHubProject\\app\\src\\debug\\jni",
+        "F:\\ForGitHubProject\\app\\src\\main\\jni"
+    ],
+    "main_manifest_path": "F:\\ForGitHubProject\\app\\src\\main\\AndroidManifest.xml",
+    "main_project_dir": "app",
+    "main_project_name": "app",
+    "main_r_path": "F:\\ForGitHubProject\\app\\build\\generated\\source\\r\\debug\\R.java",
+    "main_res_directory": [
+        "F:\\ForGitHubProject\\app\\src\\debug\\res",
+        "F:\\ForGitHubProject\\app\\src\\main\\res"
+    ],
+    "main_src_directory": [
+        "F:\\ForGitHubProject\\app\\src\\debug\\java",
+        "F:\\ForGitHubProject\\app\\src\\main\\java"
+    ],
+    "module_dependencies": {
+        "app": [
+            
+        ]
+    },
+    "modules": [
+        {
+            "name": "app",
+            "path": "F:\\ForGitHubProject\\app"
+        }
+    ],
+    "package": "com.zone.forgithubproject",
+    "product_flavor": "",
+    "project_source_sets": {
+        "app": {
+            "main_assets_directory": [
+                "F:\\ForGitHubProject\\app\\src\\debug\\assets",
+                "F:\\ForGitHubProject\\app\\src\\main\\assets"
+            ],
+            "main_jniLibs_directory": [
+                "F:\\ForGitHubProject\\app\\src\\debug\\jniLibs",
+                "F:\\ForGitHubProject\\app\\src\\main\\jniLibs"
+            ],
+            "main_jni_directory": [
+                "F:\\ForGitHubProject\\app\\src\\debug\\jni",
+                "F:\\ForGitHubProject\\app\\src\\main\\jni"
+            ],
+            "main_manifest_path": "F:\\ForGitHubProject\\app\\src\\main\\AndroidManifest.xml",
+            "main_res_directory": [
+                "F:\\ForGitHubProject\\app\\src\\debug\\res",
+                "F:\\ForGitHubProject\\app\\src\\main\\res"
+            ],
+            "main_src_directory": [
+                "F:\\ForGitHubProject\\app\\src\\debug\\java",
+                "F:\\ForGitHubProject\\app\\src\\main\\java"
+            ]
+        }
+    },
+    "project_type": "gradle",
+    "root_dir": "F:\\ForGitHubProject",
+    "sdk_directory": "Z:\\SDK",
+    "use_jdk8": true,
+    "use_system_gradle": false
+}

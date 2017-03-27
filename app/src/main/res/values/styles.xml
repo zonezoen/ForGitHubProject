@@ -1,0 +1,176 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary2</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+
+    <style name="ToolBarTheme" parent="ThemeOverlay.AppCompat.Light">
+        <item name="colorControlNormal">@color/colorPrimary2</item>
+        <!--<item name="android:actionBarSize">46dp</item>-->
+
+    </style>
+
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+    </style>
+
+    <style name="AppTheme.NoActionBarWithBackGround">
+        <item name="windowActionBar">false</item>//取消Actionbar
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>//设置全拼
+        <item name="android:windowBackground">@drawable/splash_jyz</item>//设置背景
+    </style>
+    <!--<item name="android:windowIsTranslucent">true</item>-->
+    <!--<item name="android:windowNoTitle">true</item>-->
+
+
+
+
+    <style name="etRegisterStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:textSize">50px</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_marginLeft">13px</item>
+        <item name="android:textColor">@color/colorBlackFont</item>
+    </style>
+
+    <style name="etLoginStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:textSize">50px</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_marginLeft">13px</item>
+        <item name="android:textColor">@color/colorBlackFont</item>
+    </style>
+
+    <style name="tvMainItemStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">45px</item>
+        <item name="android:textColor">@color/colorBlackFont</item>
+        <item name="android:textSize">50px</item>
+    </style>
+
+    <style name="ivMainItemStyle">
+        <item name="android:layout_width">100px</item>
+        <item name="android:layout_height">100px</item>
+        <item name="android:layout_marginLeft">60px</item>
+    </style>
+
+
+
+    <style name="managerBusinessContentStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">213px</item>
+        <item name="android:background">#ffffff</item>
+        <item name="android:layout_marginBottom">1dp</item>
+
+    </style>
+
+    <style name="managerBusinessTextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">50px</item>
+        <item name="android:textSize">30px</item>
+        <item name="android:lineSpacingMultiplier">2</item>
+        <item name="android:layout_marginLeft">110px</item>
+    </style>
+
+    <style name="layoutSyllabusRow">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@null</item>
+        <item name="android:orientation">horizontal</item>
+
+    </style>
+
+    <style name="tvSyllabusDate">
+        <item name="android:layout_width">144px</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:textSize">45px</item>
+
+        <item name="android:gravity">center</item>
+
+    </style>
+
+    <style name="tvSyllabusFrameParent">
+        <item name="android:layout_width">144px</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingLeft">2px</item>
+        <item name="android:paddingRight">2px</item>
+        <item name="android:paddingTop">4px</item>
+        <item name="android:textSize">45px</item>
+
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <style name="tvSyllabusCount">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+
+    <style name="ivMainTabBottom">
+        <item name="android:layout_width">80px</item>
+        <item name="android:layout_height">80px</item>
+        <item name="android:layout_marginTop">5px</item>
+        <item name="android:layout_marginBottom">5px</item>
+    </style>
+
+    <style name="itemCrawler">
+        <item name="android:layout_width">262px</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_weight">5</item>
+        <item name="android:textColor">@color/colorBlackFont</item>
+        <item name="android:textSize">45px</item>
+    </style>
+
+    <style name="itemClass">
+        <item name="android:layout_width">135px</item>
+        <item name="android:layout_height">220px</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">10px</item>
+        <item name="android:layout_weight">5</item>
+        <item name="android:textColor">@color/colorBlackFont</item>
+        <item name="android:textSize">40px</item>
+    </style>
+
+
+    <!--百度自动更新-->
+    <style name="bdp_update_dialog_style" parent="android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item><!--除去title-->
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Translucent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+    <style name="bdp_update_dialog_style_fullscreen" parent="@style/bdp_update_dialog_style">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

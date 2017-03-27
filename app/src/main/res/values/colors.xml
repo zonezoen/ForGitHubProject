@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#000000</color>-->
+    <color name="colorPrimary">#f7f7f7</color>
+    <color name="colorPrimary2">#12b6f4</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <!--<color name="colorPrimaryDark">#12b6f4</color>-->
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!--<color name="colorBackGround">#ebebeb</color>-->
+    <color name="colorBackGroundDingDing">#ecf0f3</color>
+    <color name="colorBackGround">#f5f5f9</color>
+    <color name="colorBackGroundLow">#f5f5f5</color>
+    <color name="colorBackGroundSuperClass">#f3f6f8</color>
+    <color name="colorBackGroundLowBlue">#f7f7f7</color>
+    <color name="colorBottom">#fcfcfc</color>
+    <color name="colorDividerLine">#d7d7d7</color>
+    <color name="colorRedDot">#ff3e3e</color>
+    <color name="colorBlackFont">#353535</color>
+    <color name="colorAlipayBackGround">#f5f5f9</color>
+    <color name="colorWhiteButtonBackGround">#f0f0f4</color>
+
+    <color name="colorGrayFont">#999999</color>
+    <color name="colorSuperClassBlackFont">#333333</color>
+    <color name="colorSuperClassBlueFont">#11aff1</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWeChatGreen">#47c11d</color>
+    <color name="colorWeChatBlue">#3cb2ff</color>
+    <color name="colorQQBlue">#12b7f5</color>
+    <color name="colorQQBlueLow">#9612b7f5</color>
+    <color name="colorWeChatToolBar">#393a3f</color>
+    <!--<color name="line">#c9c9c9</color>-->
+    <color name="line">#dddddd</color>
+    <color name="textcolor">#c3c3c3</color>
+    <color name="green">#00ff15</color>
+
+
+    <!--anti color-->
+    <color name="anti1">#95EE6B</color>
+    <color name="anti2">#5FD3B3</color>
+    <color name="anti3">#FFA573</color>
+    <color name="anti4">#F66F89</color>
+    <!--regular color-->
+    <color name="regular1" >#FFCD73</color>
+    <color name="regular2" >#FFE073</color>
+    <color name="regular3" >#FFB473</color>
+    <color name="regular4" >#FFD540</color>
+
+    <color name="regular5" >#81c2d6</color>
+    <color name="regular6" >#8192d6</color>
+    <color name="regular7" >#d9b3e6</color>
+    <color name="regular8" >#dcf7a1</color>
+    <color name="regular9" >#7BD7FA</color>
+    <color name="regular10" >#83fcec</color>
+    <!--微信字体-->
+    <color name="weixin_font" >#bfbfbf</color>
+    <color name="weixin_bar_color" >#373b3e</color>
+    <color name="weixin_bar_line_color" >#323639</color>
+    <color name="weixin_background_color" >#f8f8f8</color>
+    <!--课表页面的颜色-->
+    <color name="class_gray_front" >#a5acad</color>
+    <color name="class_backgournd" >#f4f9f9</color>
+    <color name="class_leftfront" >#72899c</color>
+    <color name="class_upfront" >#385772</color>
+    <!--课表内容的颜色-->
+    <color name="class_color0" >#81cff9</color>
+    <color name="class_color1" >#adbeff</color>
+    <color name="class_color2" >#c3b5f6</color>
+    <color name="class_color3" >#d5aef6</color>
+    <color name="class_color4" >#e6a6f5</color>
+    <color name="class_color5" >#72899c</color>
+    <color name="class_color6" >#72899c</color>
+    <color name="class_color7" >#72899c</color>
+    <color name="class_color8" >#72899c</color>
+    <color name="class_color9" >#72899c</color>
+    <color name="class_color10" >#72899c</color>
+    <color name="class_color11" >#72899c</color>
+
+
+    <!--<color name="class_cerrent_date" >#bff6f4</color>-->
+    <color name="class_cerrent_date" >#ffbe77</color>
+    <color name="class_divide_line" >#e4ebee</color>
+    <color name="class_gray_background" >#f4f9f9</color>
+    <!--底部tabbar顶部line-->
+    <color name="tabbar_divide_line" >#eeeeee</color>
+
+
+
+</resources>
